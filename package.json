@@ -1,0 +1,15 @@
+{
+  "name": "step-up-sudoku",
+  "version": "1.0.0",
+  "description": "A level-based Sudoku game with different modes and different grid-sizes",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d my-app"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://sai-venkat17.github.io/step-up-sudoku",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
